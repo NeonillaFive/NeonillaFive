@@ -3,7 +3,7 @@
 
 ---
 <div align="center">
-  <img src="https://img.shields.io/static/v1?logoWidth=25&style=for-the-badge&logo=rust&label=rust&message=dev+lang&color=ff0073" width="40" height="40"/>
+  <img src="https://img.shields.io/static/v1?logoWidth=25&style=for-the-badge&logo=rust&label=rust&message=dev+lang&color=ff0073"/>
 </div>
 
 ---
