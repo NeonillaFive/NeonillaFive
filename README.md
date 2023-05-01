@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=26&duration=3999&pause=900&color=FF0073&background=FF007321&vCenter=true&width=450&height=60&lines=Another+github+with+code+%3AP)](https://github.com/NeonillaFive)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=26&duration=3999&pause=900&color=FF0073&background=FF007321&vCenter=true&width=450&height=60&lines=Another+github+with+code+%3AP;Do+you+know+the+way%3F%3F%3F;user%40pc%3A~%24sudo+.%2Fpositive_mood)](https://github.com/NeonillaFive)
 
 ---
 
