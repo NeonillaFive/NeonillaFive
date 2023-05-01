@@ -6,12 +6,15 @@
 
 <div align="center">
   <div>
-    <a href="https://google.com">
+    <a href="https://www.rust-lang.org">
       <img src="https://img.shields.io/static/v1?logoWidth=25&style=for-the-badge&logo=rust&label=rust&message=dev+lang&color=ff0073"/>
     </a>
   </div>
-  
-  <img src="https://img.shields.io/static/v1?logoWidth=25&style=for-the-badge&logo=linux&label=linux&message=Administration&color=ff0073" />
+  <div>
+    <a href="https://en.wikipedia.org/wiki/Linux">
+      <img src="https://img.shields.io/static/v1?logoWidth=25&style=for-the-badge&logo=linux&label=linux&message=Administration&color=ff0073" />
+    </a>
+  </div>
 </div>
 
 ---
