@@ -2,7 +2,7 @@
 
 ---
 
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=26&duration=3999&pause=900&color=747474&multiline=true&width=450&height=60&lines=Hard+skills)]()
+> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=26&duration=1999&pause=900&color=747474&vCenter=true&width=150&height=60&lines=Hard+skills)]()
 
 <div align="left">
   <div>
@@ -18,3 +18,5 @@
 </div>
 
 ---
+
+
