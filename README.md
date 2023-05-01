@@ -4,7 +4,7 @@
 
 > [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=26&duration=3999&pause=900&color=747474&multiline=true&width=450&height=60&lines=Hard+skills)]()
 
-<div align="center">
+<div align="left">
   <div>
     <a href="https://www.rust-lang.org">
       <img src="https://img.shields.io/static/v1?logoWidth=25&style=for-the-badge&logo=rust&label=rust&message=dev+lang&color=ff0073"/>
