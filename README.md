@@ -5,12 +5,9 @@
 > [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=26&duration=3999&pause=900&color=747474&multiline=true&width=450&height=60&lines=Hard+skills)]()
 
 <div>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/static/v1?logoWidth=25&style=for-the-badge&logo=rust&label=rust&message=dev+lang&color=ff0073"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux">
-      <img src="https://img.shields.io/static/v1?logoWidth=25&style=for-the-badge&logo=linux&label=linux&message=Administration&color=ff0073" />
-  </a>
+  <img src="https://img.shields.io/static/v1?logoWidth=25&style=for-the-badge&logo=rust&label=rust&message=dev+lang&color=ff0073"/>
+  
+  <img src="https://img.shields.io/static/v1?link=https://en.wikipedia.org/wiki/Linux&link=https://en.wikipedia.org/wiki/Linux&logoWidth=25&style=for-the-badge&logo=linux&label=linux&message=Administration&color=ff0073" />
 </div>
 
 ---
