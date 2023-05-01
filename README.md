@@ -11,7 +11,7 @@
     </a>
   </div>
   
-  <img src="https://img.shields.io/static/v1?link=https://en.wikipedia.org/wiki/Linux&link=https://en.wikipedia.org/wiki/Linux&logoWidth=25&style=for-the-badge&logo=linux&label=linux&message=Administration&color=ff0073" />
+  <img src="https://img.shields.io/static/v1?logoWidth=25&style=for-the-badge&logo=linux&label=linux&message=Administration&color=ff0073" />
 </div>
 
 ---
